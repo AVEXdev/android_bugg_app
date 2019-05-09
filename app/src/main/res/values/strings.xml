@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bug App</string>
+    <string name="action_add">add</string>
+    <string name="action_take">take</string>
+    <string name="action_grow">grow</string>
+    <string name="action_reset">reset</string>
+    <string name="action_shrink">shrink</string>
+    <string name="action_hide">hide</string>
+</resources>
